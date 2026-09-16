@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Changa+One);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+h1 {
+  font-family: 'Changa One';
+  font-size: 48px;
+  line-height: 1;
+  color: red;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'changa one';
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+p {font-family: 'Comfortaa';
+  font-size: 24px;
+  line-height: 1.5;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #11;
+}
+
+img {
+  width: 200px;
+}s
